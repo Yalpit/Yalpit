@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yalpit
 - 🇪🇺 Europeanly known as Charles D-C
-- Pristimantis Quaquaversus#8441
+- *Pristimantis Quaquaversus#8441 on discord*
 - 👀 I’m interested in hiking, climbing, nature in general
 - 🌱 I’m currently learning JS.
 - 🤯 I already can work with C/Python/Rust
